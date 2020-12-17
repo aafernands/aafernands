@@ -5,7 +5,7 @@
 - 🌱   I’m currently learning MySQL
 
 ## 🛠  Tech Stack
-- 🌐   HTML5 CSS SASS JavaScript React Git GitHub
+- 🌐   HTML5  CSS SASS JavaScript React Git GitHub
 
 
 
