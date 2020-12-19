@@ -10,8 +10,7 @@
 
 ![Alex Fernandes's github stats](https://github-readme-stats.vercel.app/api?username=aafernands&show_icons=true)
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aafernands&repo=github-readme-stats)](https://github.com/aafernands/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aafernands)](https://github.com/aafernands/github-readme-stats)
 
 
 
