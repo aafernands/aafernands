@@ -12,6 +12,7 @@
 
 [![Alex Fernandes's github stats](https://github-readme-stats.vercel.app/api?username=aafernands)](https://github.com/aafernands/github-readme-stats)
 
+![Alex Fernandes's github stats](https://github-readme-stats.vercel.app/api?username=aafernands&show_icons=true)
 
 
 
