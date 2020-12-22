@@ -1,5 +1,6 @@
-## Hi there! I'm Alex Fernandes.
-- 👨🏻‍💻  About Me
+# Hi there! I'm Alex Fernandes.
+
+## 👨🏻‍💻  About Me
 - 👨   I'm learning Full Stack Web Development. I am based in New Jersey, USA. I strive to build immersive and beautiful web apps through carefully crafted code and user-centric design.
 - 👨🏻‍💻   Exploring new technologies and working on my skills.
 - 🌱   I’m currently learning JavaScript and MySQL.
