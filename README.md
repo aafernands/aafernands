@@ -1,13 +1,13 @@
 # Hi there! I'm Alex Fernandes.
 
-## 👨🏻‍💻  About Me
-- 👨   I'm learning Full Stack Web Development. I am based in New Jersey, USA. I strive to build immersive and beautiful web apps through carefully crafted code and user-centric design.
-- 👨🏻‍💻   Exploring new technologies and working on my skills.
-- 🌱   I’m currently learning JavaScript and MySQL.
+## 👨🏻‍💻 About Me
+- 👨 I'm a Full Stack Web Developer based in New Jersey, USA. I strive to build immersive and beautiful web apps through carefully crafted code and user-centric design.
+- 👨🏻‍💻 Exploring new technologies and working on my skills.
+- 🌱 I’m currently learning JavaScript (ES6+), React, and MySQL.
 
-## 🛠  Tech Stack
-- 🌐   HTML5  CSS SASS JavaScript React Git GitHub
-
+## 🛠 Tech Stack
+- 🌐 **Frontend**: HTML5, CSS, SASS, JavaScript (ES6+), React, Next.js
+- 🔧 **Version Control**: Git, GitHub
 
 ![Alex Fernandes's github stats](https://github-readme-stats.vercel.app/api?username=aafernands&show_icons=true)
 
